@@ -28,6 +28,7 @@ This public version is only buy part of my sniper.
 You can test it how fast it is to snipe the new tokens in Pump.fun sniper.
 If you are satisfied with this, then you can contact me and get whole part of my sniper.
 Contact info
+
 telegram: @Takhi77
 
 After the contact through telegram, then let's continue through other media.
