@@ -1,34 +1,15 @@
-# How Can I snipe the token in Pump.fun?
-# Solana pumpfun sniper
+### Solana pumpfun sniper bot that listen new pools on pump.fun, automic buy - sell on pump fun. As pumpfun sniper bot on pump.fun, it's basic version about snipin on pump fun. To get full advanced version, feel free to reach out of me[Telegram: https://t.me/DevCutup, Whatsapp: https://wa.me/13137423660].
 
-This is the first screen of the my Sniper.
-![image](./screenshots/1.png)
+## Features
+- **Automated Trading:** Automatically buy the latest coins on Pump.Fun and sell them once your target profit percentage or stop-loss percentage is reached.
+- **King of The Hill Coins:** Support for buying the top-performing coins.
+- **Custom RPC Support:** Use your preferred Solana RPC for transactions.
+- **User-Friendly Setup:** Easy setup by adding your private key and RPC URL.
+- **Latest Coins Information:** Pulls the latest 10 coins created and allows you to view more information and buy each individually.
+- **Persistent Positions:** Saves your positions and reloads them on restart.
 
-This is the settings of my sniper.
-You can set these constants.
-![image](./screenshots/3.png)
-
-This is the sniper mode of my sniper.
-![image](./screenshots/2.png)
-
-This is the constants settings of the sniper.
-You can set these constants.
-![image](./screenshots/4.png)
-
-This is the starting of the sniper.
-![image](./screenshots/5.png)
-
-These are the steps of the sniping process.
-![image](./screenshots/6.png)
-![image](./screenshots/7.png)
-![image](./screenshots/8.png)
-![image](./screenshots/9.png)
-
-This public version is only buy part of my sniper.
-You can test it how fast it is to snipe the new tokens in Pump.fun sniper.
-If you are satisfied with this, then you can contact me and get whole part of my sniper.
-Contact info
-
-telegram: @Takhi77
-
-After the contact through telegram, then let's continue through other media.
+## Latest Update
+- **New Feature:** Now pulls the latest 10 coins created on Pump.Fun.
+- **Enhanced Functionality:** Allows you to see more information about each coin and buy them individually.
+- **Position Persistence:** Automatically saves your positions and reloads them upon restart.
+- **Take Profit and Stop-Loss:** Set take profit and stop-loss percentages for automated selling.
