@@ -24,3 +24,8 @@ sell:   https://solscan.io/tx/5QDYSiST7KX9viNZXSeSATZYMJ5ioJrHJxqu9DVwFzREMarwwm
 ![result](./screenshots/1.png)
 ![result](./screenshots/2.png)
 ![result](./screenshots/3.png)
+
+### Contact Information
+- Telegram: https://t.me/DevCutup
+- Whatsapp: https://wa.me/13137423660
+- Twitter: https://x.com/devcutup
